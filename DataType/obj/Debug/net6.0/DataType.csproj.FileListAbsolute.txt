@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\DataType\bin\Debug\net6.0\DataType.exe
+D:\Practice_C#\ConsoleApp1\DataType\bin\Debug\net6.0\DataType.deps.json
+D:\Practice_C#\ConsoleApp1\DataType\bin\Debug\net6.0\DataType.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\DataType\bin\Debug\net6.0\DataType.dll
+D:\Practice_C#\ConsoleApp1\DataType\bin\Debug\net6.0\DataType.pdb
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.dll
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\refint\DataType.dll
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.pdb
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\DataType.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\DataType\obj\Debug\net6.0\ref\DataType.dll

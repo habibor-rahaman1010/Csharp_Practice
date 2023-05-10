@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\User Input Output\bin\Debug\net6.0\User Input Output.exe
+D:\Practice_C#\ConsoleApp1\User Input Output\bin\Debug\net6.0\User Input Output.deps.json
+D:\Practice_C#\ConsoleApp1\User Input Output\bin\Debug\net6.0\User Input Output.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\User Input Output\bin\Debug\net6.0\User Input Output.dll
+D:\Practice_C#\ConsoleApp1\User Input Output\bin\Debug\net6.0\User Input Output.pdb
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.dll
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\refint\User Input Output.dll
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.pdb
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\User Input Output.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\User Input Output\obj\Debug\net6.0\ref\User Input Output.dll
