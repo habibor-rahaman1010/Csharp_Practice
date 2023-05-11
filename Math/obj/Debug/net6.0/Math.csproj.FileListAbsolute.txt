@@ -1,0 +1,21 @@
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\Math.exe
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\Math.deps.json
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\Math.dll
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\Math.pdb
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.dll
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\refint\Math.dll
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.pdb
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\ref\Math.dll
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\User Input Output.deps.json
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\User Input Output.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\User Input Output.exe
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\User Input Output.dll
+D:\Practice_C#\ConsoleApp1\Math\bin\Debug\net6.0\User Input Output.pdb
+D:\Practice_C#\ConsoleApp1\Math\obj\Debug\net6.0\Math.csproj.CopyComplete

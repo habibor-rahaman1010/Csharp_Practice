@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TypeCasting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TypeCasting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TypeCasting.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TypeCasting/1.0.0": {
+      "type": "project",
+      "path": "../TypeCasting/TypeCasting.csproj",
+      "msbuildProject": "../TypeCasting/TypeCasting.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TypeCasting >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Habibor Rahaman\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj": {
+              "projectPath": "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,26 @@
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\TypeCasting.deps.json
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\TypeCasting.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\TypeCasting.exe
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\User Input Output.deps.json
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\User Input Output.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\User Input Output.exe
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\If else Cndition.exe
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\If else Cndition.deps.json
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\If else Cndition.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\If else Cndition.dll
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\If else Cndition.pdb
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\TypeCasting.dll
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\User Input Output.dll
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\TypeCasting.pdb
+D:\Practice_C#\ConsoleApp1\Operators\bin\Debug\net6.0\User Input Output.pdb
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.csproj.CopyComplete
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.dll
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\refint\If else Cndition.dll
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.pdb
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\If else Cndition.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Operators\obj\Debug\net6.0\ref\If else Cndition.dll

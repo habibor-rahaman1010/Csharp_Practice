@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "If Else Codition/1.0.0": {
+        "dependencies": {
+          "TypeCasting": "1.0.0"
+        },
+        "runtime": {
+          "If Else Codition.dll": {}
+        }
+      },
+      "TypeCasting/1.0.0": {
+        "runtime": {
+          "TypeCasting.dll": {}
+        }
+      },
+      "User Input Output/1.0.0": {
+        "runtime": {
+          "User Input Output.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If Else Codition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TypeCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "User Input Output/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Math/1.0.0": {
+        "runtime": {
+          "Math.dll": {}
+        }
+      },
+      "User Input Output/1.0.0": {
+        "runtime": {
+          "User Input Output.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "User Input Output/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

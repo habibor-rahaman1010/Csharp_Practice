@@ -27,6 +27,309 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practice_C#\\ConsoleApp1\\DataType\\DataType.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\DataType\\DataType.csproj"
+              },
+              "D:\\Practice_C#\\ConsoleApp1\\Math\\Math.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\Math\\Math.csproj"
+              },
+              "D:\\Practice_C#\\ConsoleApp1\\Operators\\If Else Codition.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\Operators\\If Else Codition.csproj"
+              },
+              "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice_C#\\ConsoleApp1\\DataType\\DataType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice_C#\\ConsoleApp1\\DataType\\DataType.csproj",
+        "projectName": "DataType",
+        "projectPath": "D:\\Practice_C#\\ConsoleApp1\\DataType\\DataType.csproj",
+        "packagesPath": "C:\\Users\\Habibor Rahaman\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice_C#\\ConsoleApp1\\DataType\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Habibor Rahaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice_C#\\ConsoleApp1\\Math\\Math.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice_C#\\ConsoleApp1\\Math\\Math.csproj",
+        "projectName": "Math",
+        "projectPath": "D:\\Practice_C#\\ConsoleApp1\\Math\\Math.csproj",
+        "packagesPath": "C:\\Users\\Habibor Rahaman\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice_C#\\ConsoleApp1\\Math\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Habibor Rahaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice_C#\\ConsoleApp1\\Operators\\If Else Codition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice_C#\\ConsoleApp1\\Operators\\If Else Codition.csproj",
+        "projectName": "If Else Codition",
+        "projectPath": "D:\\Practice_C#\\ConsoleApp1\\Operators\\If Else Codition.csproj",
+        "packagesPath": "C:\\Users\\Habibor Rahaman\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice_C#\\ConsoleApp1\\Operators\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Habibor Rahaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj"
+              },
+              "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj": {
+                "projectPath": "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj",
+        "projectName": "TypeCasting",
+        "projectPath": "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\TypeCasting.csproj",
+        "packagesPath": "C:\\Users\\Habibor Rahaman\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice_C#\\ConsoleApp1\\TypeCasting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Habibor Rahaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj",
+        "projectName": "User Input Output",
+        "projectPath": "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\User Input Output.csproj",
+        "packagesPath": "C:\\Users\\Habibor Rahaman\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice_C#\\ConsoleApp1\\User Input Output\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Habibor Rahaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },

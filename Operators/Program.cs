@@ -13,6 +13,44 @@
             {
                 Console.WriteLine("i'm not go yet");
             }
+
+            int age = 23;
+            if (age == 23)
+            {
+                Console.WriteLine("Hello, Habibor Rahaman");
+            }
+            else
+            {
+                Console.WriteLine("Yor are not habib");
+            }
+
+            if (age != 23)
+            {
+                Console.WriteLine("There are not equal");
+            }
+            else
+            {
+                Console.WriteLine("There are equeal");
+            }
+
+            if (age <= 30 || age >= 60)
+            {
+                Console.WriteLine("you are able to go");
+            }
+            else
+            {
+                Console.WriteLine("Your are not able to go");
+            }
+
+
+            if (age <= 30 && age >= 15)
+            {
+                Console.WriteLine("you are able to go");
+            }
+            else
+            {
+                Console.WriteLine("Your are not able to go");
+            }
         }
     }
 }

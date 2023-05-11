@@ -7,14 +7,50 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "DataType": "1.0.0"
+        },
         "runtime": {
           "ConsoleApp1.dll": {}
+        }
+      },
+      "DataType/1.0.0": {
+        "dependencies": {
+          "TypeCasting": "1.0.0"
+        },
+        "runtime": {
+          "DataType.dll": {}
+        }
+      },
+      "TypeCasting/1.0.0": {
+        "runtime": {
+          "TypeCasting.dll": {}
+        }
+      },
+      "User Input Output/1.0.0": {
+        "runtime": {
+          "User Input Output.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TypeCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "User Input Output/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

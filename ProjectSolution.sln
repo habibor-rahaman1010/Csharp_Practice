@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeCasting", "TypeCasting\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User Input Output", "User Input Output\User Input Output.csproj", "{0CB68442-BF0B-4CFB-946F-6B998D1F1616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{90A604A5-DBFA-4ED1-AB78-94141F9F8F4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If Else Codition", "Operators\If Else Codition.csproj", "{90A604A5-DBFA-4ED1-AB78-94141F9F8F4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{ACEC7F7A-1CEA-4E67-BA65-89A68CE5E3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Operation", "String Operation\String Operation.csproj", "{F4AB3163-C0E3-4569-AACB-AE5A8004F06C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{90A604A5-DBFA-4ED1-AB78-94141F9F8F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90A604A5-DBFA-4ED1-AB78-94141F9F8F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90A604A5-DBFA-4ED1-AB78-94141F9F8F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACEC7F7A-1CEA-4E67-BA65-89A68CE5E3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEC7F7A-1CEA-4E67-BA65-89A68CE5E3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEC7F7A-1CEA-4E67-BA65-89A68CE5E3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEC7F7A-1CEA-4E67-BA65-89A68CE5E3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AB3163-C0E3-4569-AACB-AE5A8004F06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AB3163-C0E3-4569-AACB-AE5A8004F06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AB3163-C0E3-4569-AACB-AE5A8004F06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AB3163-C0E3-4569-AACB-AE5A8004F06C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

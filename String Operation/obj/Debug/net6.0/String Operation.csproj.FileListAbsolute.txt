@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\String Operation\bin\Debug\net6.0\String Operation.exe
+D:\Practice_C#\ConsoleApp1\String Operation\bin\Debug\net6.0\String Operation.deps.json
+D:\Practice_C#\ConsoleApp1\String Operation\bin\Debug\net6.0\String Operation.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\String Operation\bin\Debug\net6.0\String Operation.dll
+D:\Practice_C#\ConsoleApp1\String Operation\bin\Debug\net6.0\String Operation.pdb
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.dll
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\refint\String Operation.dll
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.pdb
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\String Operation.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\String Operation\obj\Debug\net6.0\ref\String Operation.dll

@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataType\DataType.csproj" />
+    <ProjectReference Include="..\Math\Math.csproj" />
+    <ProjectReference Include="..\Operators\If Else Codition.csproj" />
+    <ProjectReference Include="..\User Input Output\User Input Output.csproj" />
+  </ItemGroup>
+
 </Project>

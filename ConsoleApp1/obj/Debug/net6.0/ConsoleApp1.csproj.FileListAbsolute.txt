@@ -1,13 +1,29 @@
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DataType.deps.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DataType.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TypeCasting.deps.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TypeCasting.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TypeCasting.exe
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DataType.exe
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\User Input Output.deps.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\User Input Output.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\User Input Output.exe
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DataType.dll
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TypeCasting.dll
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\User Input Output.dll
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\DataType.pdb
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\User Input Output.pdb
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TypeCasting.pdb
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
 D:\Practice_C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
