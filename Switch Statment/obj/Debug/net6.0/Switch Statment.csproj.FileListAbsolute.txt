@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\Switch Statment\bin\Debug\net6.0\Switch Statment.exe
+D:\Practice_C#\ConsoleApp1\Switch Statment\bin\Debug\net6.0\Switch Statment.deps.json
+D:\Practice_C#\ConsoleApp1\Switch Statment\bin\Debug\net6.0\Switch Statment.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Switch Statment\bin\Debug\net6.0\Switch Statment.dll
+D:\Practice_C#\ConsoleApp1\Switch Statment\bin\Debug\net6.0\Switch Statment.pdb
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.dll
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\refint\Switch Statment.dll
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.pdb
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\Switch Statment.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Switch Statment\obj\Debug\net6.0\ref\Switch Statment.dll

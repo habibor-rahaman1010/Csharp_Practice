@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\For and Foreach\bin\Debug\net6.0\For and Foreach.exe
+D:\Practice_C#\ConsoleApp1\For and Foreach\bin\Debug\net6.0\For and Foreach.deps.json
+D:\Practice_C#\ConsoleApp1\For and Foreach\bin\Debug\net6.0\For and Foreach.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\For and Foreach\bin\Debug\net6.0\For and Foreach.dll
+D:\Practice_C#\ConsoleApp1\For and Foreach\bin\Debug\net6.0\For and Foreach.pdb
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.dll
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\refint\For and Foreach.dll
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.pdb
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\For and Foreach.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\For and Foreach\obj\Debug\net6.0\ref\For and Foreach.dll

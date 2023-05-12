@@ -51,6 +51,21 @@
             {
                 Console.WriteLine("Your are not able to go");
             }
+
+            int vot = 28;
+            if (vot <= 15)
+            {
+                Console.WriteLine("You not allow of vot");
+            }
+            else if (vot >= 18)
+            {
+                Console.WriteLine("You can also allow to vot");
+            }
+
+            string result = (vot >= 18) ? "You can give vot" : "You can't give vot";
+            Console.WriteLine(result);
+            string result2 = (vot <= 18) ? "You can give vot" : "You can't give vot";
+            Console.WriteLine(result2);
         }
     }
 }

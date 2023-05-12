@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\While Loop\bin\Debug\net6.0\While Loop.exe
+D:\Practice_C#\ConsoleApp1\While Loop\bin\Debug\net6.0\While Loop.deps.json
+D:\Practice_C#\ConsoleApp1\While Loop\bin\Debug\net6.0\While Loop.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\While Loop\bin\Debug\net6.0\While Loop.dll
+D:\Practice_C#\ConsoleApp1\While Loop\bin\Debug\net6.0\While Loop.pdb
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.dll
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\refint\While Loop.dll
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.pdb
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\While Loop.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\While Loop\obj\Debug\net6.0\ref\While Loop.dll
