@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\Array Operation\bin\Debug\net6.0\Array Operation.exe
+D:\Practice_C#\ConsoleApp1\Array Operation\bin\Debug\net6.0\Array Operation.deps.json
+D:\Practice_C#\ConsoleApp1\Array Operation\bin\Debug\net6.0\Array Operation.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Array Operation\bin\Debug\net6.0\Array Operation.dll
+D:\Practice_C#\ConsoleApp1\Array Operation\bin\Debug\net6.0\Array Operation.pdb
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.dll
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\refint\Array Operation.dll
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.pdb
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\Array Operation.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Array Operation\obj\Debug\net6.0\ref\Array Operation.dll

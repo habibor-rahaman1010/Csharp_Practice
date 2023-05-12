@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\Methods\bin\Debug\net6.0\Methods.exe
+D:\Practice_C#\ConsoleApp1\Methods\bin\Debug\net6.0\Methods.deps.json
+D:\Practice_C#\ConsoleApp1\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Methods\bin\Debug\net6.0\Methods.dll
+D:\Practice_C#\ConsoleApp1\Methods\bin\Debug\net6.0\Methods.pdb
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.dll
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\refint\Methods.dll
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.pdb
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Methods\obj\Debug\net6.0\ref\Methods.dll

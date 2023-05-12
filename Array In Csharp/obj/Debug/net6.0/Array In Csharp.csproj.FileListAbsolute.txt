@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\Array In Csharp\bin\Debug\net6.0\Array In Csharp.exe
+D:\Practice_C#\ConsoleApp1\Array In Csharp\bin\Debug\net6.0\Array In Csharp.deps.json
+D:\Practice_C#\ConsoleApp1\Array In Csharp\bin\Debug\net6.0\Array In Csharp.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Array In Csharp\bin\Debug\net6.0\Array In Csharp.dll
+D:\Practice_C#\ConsoleApp1\Array In Csharp\bin\Debug\net6.0\Array In Csharp.pdb
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.dll
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\refint\Array In Csharp.dll
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.pdb
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\Array In Csharp.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Array In Csharp\obj\Debug\net6.0\ref\Array In Csharp.dll

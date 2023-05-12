@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\bin\Debug\net6.0\Multidimensional Arrays.exe
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\bin\Debug\net6.0\Multidimensional Arrays.deps.json
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\bin\Debug\net6.0\Multidimensional Arrays.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\bin\Debug\net6.0\Multidimensional Arrays.dll
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\bin\Debug\net6.0\Multidimensional Arrays.pdb
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.dll
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\refint\Multidimensional Arrays.dll
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.pdb
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\Multidimensional Arrays.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\Multidimensional Arrays\obj\Debug\net6.0\ref\Multidimensional Arrays.dll
