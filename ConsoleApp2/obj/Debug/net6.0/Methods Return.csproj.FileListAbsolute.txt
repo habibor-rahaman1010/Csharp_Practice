@@ -1,0 +1,15 @@
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Methods Return.exe
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Methods Return.deps.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Methods Return.runtimeconfig.json
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Methods Return.dll
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\bin\Debug\net6.0\Methods Return.pdb
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.csproj.AssemblyReference.cache
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.AssemblyInfoInputs.cache
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.AssemblyInfo.cs
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.csproj.CoreCompileInputs.cache
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.dll
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\refint\Methods Return.dll
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.pdb
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\Methods Return.genruntimeconfig.cache
+D:\Practice_C#\ConsoleApp1\ConsoleApp2\obj\Debug\net6.0\ref\Methods Return.dll
