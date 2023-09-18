@@ -8,7 +8,7 @@
             Array.Sort(cars);
             for (int i = 0; i < cars.Length; i++)
             {
-                String data = cars[i];
+                string data = cars[i];
                 Console.WriteLine(data);
             }
 
