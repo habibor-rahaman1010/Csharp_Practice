@@ -38,6 +38,87 @@ namespace JaggedArray
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine();
+
+            //another way to declear jagged array in csharp language....
+            string[][] friends = new string[][]
+            {
+                new string[] {"Habib", "Allen", "Sufiya", "Saad"},
+                new string[] {"Tarek", "Shawon", "Iftekhar", "Matlab"},
+                new string[] {"Rifat", "Habib", "Arafat"},
+                new string[] {"Programmer", "Developer", "Engineer"}
+            };
+
+            for (int i = 0; i < friends.Length; i++)
+            {
+                for(int k = 0; k < friends[i].Length; k++)
+                {
+                    Console.Write(friends[i][k] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            //another way to deacler jagged array in csharp....
+            string[][] technology =
+            {
+                new string[] {"Csharp", "Java", "C++", "Pyrhon"},
+                new string[] {"JavaScript", "php", "TypeScript"},
+                new string[] {"Database", "Operating System", "Process Log", "Over Clock", "System Dessign"},
+                new string[] {"MySQL", "MSSQL", "SQLlite", "PostgreSQL"}
+            };
+
+            for(int n = 0; n < technology.Length; n++)
+            {
+                for(int m = 0; m < technology[n].Length; m++)
+                {
+                    Console.Write(technology[n][m] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            // jagged array and multi daimention array mixed in csharp....
+            int[][,] digite = new int[3][,]
+            {
+                new int[,] { { 12, 34, 45}, { 34, 32, 56} },
+                new int[,] { { 12, 34, 45}, { 34, 32, 56} },
+                new int[,] { { 12, 34, 45}, { 34, 32, 56} },
+            };
+
+            for(int i = 0; i < digite.Length; i++)
+            {
+                for(int j = 0; j < digite[i].GetLength(0); j++)
+                {
+                    for(int k = 0; k < digite[i].GetLength(1); k++)
+                    {
+                        Console.Write(digite[i][j, k] + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
+            Console.WriteLine();
+
+            // jagged array and multi daimention array mixed in csharp....
+            int[][,] student_marks = new int[][,]
+            {
+                new int[,] { { 12, 34, 45}, { 34, 32, 56}, { 34, 32, 56} },
+                new int[,] { { 12, 34, 45}, { 34, 32, 56}, { 34, 32, 56} },
+                new int[,] { { 12, 34, 45}, { 34, 32, 56}, { 34, 32, 56} },
+                new int[,] { { 12, 34, 45}, { 34, 32, 56}, { 34, 32, 56} },
+            };
+
+            for (int i = 0; i < student_marks.Length; i++)
+            {
+                for (int j = 0; j < student_marks[i].GetLength(0); j++)
+                {
+                    for (int k = 0; k < student_marks[i].GetLength(1); k++)
+                    {
+                        Console.Write(student_marks[i][j, k] + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
         }
     }
 }
