@@ -1,4 +1,6 @@
-﻿namespace ArrayOperation
+﻿using System;
+
+namespace ArrayOperation
 {
     class Program
     {

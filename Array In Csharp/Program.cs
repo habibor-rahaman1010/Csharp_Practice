@@ -1,4 +1,6 @@
-﻿namespace ArrayPractice
+﻿using System;
+
+namespace ArrayPractice
 {
     class ArrayDataStructure
     {

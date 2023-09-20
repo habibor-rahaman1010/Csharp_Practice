@@ -1,4 +1,6 @@
-﻿namespace Operator
+﻿using System;
+
+namespace Operator
 {
     class Program
     {

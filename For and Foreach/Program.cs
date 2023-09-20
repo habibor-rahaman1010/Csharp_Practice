@@ -1,4 +1,6 @@
-﻿namespace ForLoopForeach
+﻿using System;
+
+namespace ForLoopForeach
 {
     class FoorLoop
     {

@@ -1,4 +1,6 @@
-﻿namespace Methods
+﻿using System;
+
+namespace Methods
 {
     class MethodsProgram
     {

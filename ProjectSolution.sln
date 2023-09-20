@@ -47,7 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayLoop", "ArrayLoop\Arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringLoop", "StringLoop\StringLoop.csproj", "{96B334EE-4CA0-44E2-8B77-11FEBCE65D4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLoop", "ForeachLoop\ForeachLoop.csproj", "{D1A5C08C-00FD-436F-8D8E-B65E0C0D2567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForeachLoop", "ForeachLoop\ForeachLoop.csproj", "{D1A5C08C-00FD-436F-8D8E-B65E0C0D2567}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NastedLoop", "NastedLoop\NastedLoop.csproj", "{E7E897CA-2F33-4211-A39D-BAB57865F5CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleDataStructure", "TupleDataStructure\TupleDataStructure.csproj", "{1D721263-56F9-408E-BD5A-B0AF0FD3ACC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{D1A5C08C-00FD-436F-8D8E-B65E0C0D2567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A5C08C-00FD-436F-8D8E-B65E0C0D2567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A5C08C-00FD-436F-8D8E-B65E0C0D2567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E897CA-2F33-4211-A39D-BAB57865F5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E897CA-2F33-4211-A39D-BAB57865F5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E897CA-2F33-4211-A39D-BAB57865F5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E897CA-2F33-4211-A39D-BAB57865F5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D721263-56F9-408E-BD5A-B0AF0FD3ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D721263-56F9-408E-BD5A-B0AF0FD3ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D721263-56F9-408E-BD5A-B0AF0FD3ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D721263-56F9-408E-BD5A-B0AF0FD3ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
