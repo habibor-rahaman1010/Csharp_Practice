@@ -1,4 +1,6 @@
-﻿namespace StringOperation
+﻿using System;
+
+namespace StringOperation
 {
     class Program
     {
