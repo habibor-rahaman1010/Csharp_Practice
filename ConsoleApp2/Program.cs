@@ -1,4 +1,6 @@
-﻿namespace MethodsReturn
+﻿using System;
+
+namespace MethodsReturn
 {
     class Program
     {

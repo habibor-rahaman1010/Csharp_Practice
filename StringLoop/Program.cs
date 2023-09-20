@@ -16,12 +16,12 @@ namespace StringLoop
             string[] name = new string[5];
             for(int i = 0; i < name.Length; i++)
             {
-                //name[i] = Console.ReadLine();
+                name[i] = Console.ReadLine();
             }
 
             for(int i = 0; i < name.Length; i++)
             {
-               // Console.WriteLine($"{name[i]} "); 
+               Console.WriteLine($"{name[i]} "); 
             }
         } 
     }
