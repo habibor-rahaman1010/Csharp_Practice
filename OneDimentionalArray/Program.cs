@@ -16,7 +16,7 @@ namespace OneDimentionalArray
             
             for (int i = 0; i < number.Length; i++)
             {
-                Console.WriteLine(number[i]);  
+                //Console.WriteLine(number[i]);  
             }
 
             //Method 2 to decklear array in c# programming language...
@@ -25,7 +25,7 @@ namespace OneDimentionalArray
             for(int i = 0; i < friends.Length; i++)
             {
                 string friend = friends[i];
-                Console.WriteLine(friend);
+                //Console.WriteLine(friend);
             }
 
             //Method 3 to decklear array in c# programming language...
@@ -49,7 +49,7 @@ namespace OneDimentionalArray
 
             //Method 6 to decklear array in c# programming language...
             string[] car;
-            car  = new string[1];
+            car = new string[2];
             car[0] = "Toyota";
             car[1] = "Marcidies";
 
@@ -60,6 +60,21 @@ namespace OneDimentionalArray
             serial_number[2] = 74;
             serial_number[3] = 19;
             serial_number[4] = 7;
+
+            //Methods 8 to create array and initialized vaue
+            Array day = Array.CreateInstance(typeof(int), 5);
+            day.SetValue(12, 0);
+            Console.WriteLine(day.GetValue(0));
+
+            for (int i = 0; i < day.Length; i++)
+            {
+                day.SetValue((i + 1) * 10, i);
+            }
+
+            for (int i = 0; i < day.Length; i++)
+            {
+                Console.WriteLine(day.GetValue(i));
+            }
         }
     }
 }

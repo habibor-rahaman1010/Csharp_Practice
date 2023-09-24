@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace ClassAndObject
 {
@@ -23,6 +24,18 @@ namespace ClassAndObject
                 Console.WriteLine($"Blance: {habib[i].Balnce}");
                 Console.WriteLine();
             }
+
+            //Explore list and ArrayList in c# language....
+            ArrayList hb = new ArrayList() {"Allen", 19, 30};
+            hb.Add("hello");
+            hb.Add(123);
+            Console.WriteLine(hb[4]);
+
+            List<int> hn = new List<int>() {12, 34, 56, 67};
+            hn.Add(100);
+            hn[1] = 500;
+            Console.WriteLine(hn[4]);
+            Console.WriteLine(hn[1]);
         }
     }
 }
