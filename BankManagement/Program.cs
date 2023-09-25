@@ -1,5 +1,7 @@
 ﻿using System;
 using BankManagement.Users;
+using BankManagement.Hello;
+using static BankManagement.Hello.ContainerClass;
 
 namespace BankManagement
 {
@@ -29,6 +31,13 @@ namespace BankManagement
             rifat.Withdraw(2000);
 
             Console.WriteLine($"Bank Blance: {Asia.bankBlance()}");
+
+
+
+            //access mofidire in class...
+            ContainerClass containerClass = new ContainerClass();
+            helloClass n = new helloClass();
+            containerClass.MonkeySound();
         }
     } 
 }
