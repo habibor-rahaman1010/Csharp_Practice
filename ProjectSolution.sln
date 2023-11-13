@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualKeyword", "VirtualKeyword\VirtualKeyword.csproj", "{C4A12275-F77D-414A-BDB8-AFD00030DAC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{4F48F1B8-320C-4D85-8143-1246361B1D90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -269,6 +271,10 @@ Global
 		{C4A12275-F77D-414A-BDB8-AFD00030DAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A12275-F77D-414A-BDB8-AFD00030DAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A12275-F77D-414A-BDB8-AFD00030DAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F48F1B8-320C-4D85-8143-1246361B1D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F48F1B8-320C-4D85-8143-1246361B1D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F48F1B8-320C-4D85-8143-1246361B1D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F48F1B8-320C-4D85-8143-1246361B1D90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
