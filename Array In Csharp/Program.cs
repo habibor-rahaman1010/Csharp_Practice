@@ -14,6 +14,7 @@ namespace ArrayPractice
 
             string[] books = new string[] {"Operating system", "Database", "Network", "System Design"};
 
+
             int[] number = new int[5];
             number[0] = 18;
             number[1] = 10;
