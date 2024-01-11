@@ -119,9 +119,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventExample", "EventExampl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LamdaExpression", "LamdaExpression\LamdaExpression.csproj", "{431A9B65-8424-4149-B78A-C7263994E8F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQuery", "LinqQuery\LinqQuery.csproj", "{2EC54FB9-F703-4281-B7FD-683FB92CACEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqQuery", "LinqQuery\LinqQuery.csproj", "{2EC54FB9-F703-4281-B7FD-683FB92CACEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadExample", "ThreadExample\ThreadExample.csproj", "{04B3083A-8263-4971-B26D-F0E84BD221EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadExample", "ThreadExample\ThreadExample.csproj", "{04B3083A-8263-4971-B26D-F0E84BD221EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerExample", "IndexerExample\IndexerExample.csproj", "{1C84CC37-7269-41D3-BB5E-1DEEE53E91D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -365,6 +367,10 @@ Global
 		{04B3083A-8263-4971-B26D-F0E84BD221EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B3083A-8263-4971-B26D-F0E84BD221EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B3083A-8263-4971-B26D-F0E84BD221EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C84CC37-7269-41D3-BB5E-1DEEE53E91D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C84CC37-7269-41D3-BB5E-1DEEE53E91D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C84CC37-7269-41D3-BB5E-1DEEE53E91D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C84CC37-7269-41D3-BB5E-1DEEE53E91D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
